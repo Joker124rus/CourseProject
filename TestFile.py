@@ -17,4 +17,6 @@ plt.legend(['sigma = 0.5, mu = 1.0',
             'sigma = 1.0, mu = 0.5',
             'sigma = 1.5, mu = 0.0'], loc='upper left')
 
+TEST = "TEST STRING"
+
 fig.savefig('gauss.png')
